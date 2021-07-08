@@ -1,0 +1,46 @@
+.center {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+    object-position: center bottom;
+    width: auto;
+}
+.sub input[type="submit"], .subi {
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+a {
+  text-decoration: none;
+}
+ul.menu{
+    background: #16a085;
+   height: 100px;
+}
+ul.menu>li{
+  float: left;
+  border-right:1px solid rgba(0,0,0,.1);
+   
+}
+ul.menu>li>a{
+    display: block;
+    font-size: 14px;
+    padding: 0 15px;
+    line-height: 50px;
+}
+div.yan{
+    float: left;
+    margin-left: 20px;
+}
