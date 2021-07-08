@@ -1,0 +1,28 @@
+h1 {
+ color: salmon;
+}
+h2 {
+color: darkcyan;
+}
+.text-position{
+    text-align: center;
+}
+#deger {
+ color: darkgreen;
+
+}
+.li{
+    color: dimgray;
+  
+}
+ul.position-list {
+    list-style-position: inside;
+}
+.firstDiv {
+    border: 7px outset gold;
+background-color: lightblue;
+text-align: center;
+}
+.s{
+    text-align: center;
+}
